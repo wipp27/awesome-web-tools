@@ -40,6 +40,7 @@ A curated list of genuinely useful, free tools that run entirely in the browser.
 - [Fetchlify Background Remover](https://fetchlify.com/tools/image-background-remover) — remove image backgrounds online
 
 ## Utility
+- [BestJSON](https://bestjson.com/) — format, validate, repair, compare, query and convert JSON locally in your browser, with no account required
 - [Fetchlify QR Code Generator](https://fetchlify.com/tools/qr-generator) — create custom QR codes
 - [Fetchlify Barcode Generator](https://fetchlify.com/tools/barcode-generator) — barcodes in various formats
 - [Fetchlify Text Translator](https://fetchlify.com/tools/text-translator) — translate between 100+ languages
