@@ -32,6 +32,7 @@ A curated list of genuinely useful, free tools that run entirely in the browser.
 - [Fetchlify Pinterest Video Downloader](https://fetchlify.com/tools/pinterest-video-downloader) — download videos and pins
 - [Fetchlify SoundCloud Downloader](https://fetchlify.com/tools/soundcloud-downloader) — save tracks and playlists
 - [Fetchlify Dailymotion Video Downloader](https://fetchlify.com/tools/dailymotion-video-downloader) — download Dailymotion videos
+- [InstaNoMark](https://instagramvideodownloadwithoutwatermaker.com/) — download Instagram videos and reels without a watermark
 
 ## File & Image Tools
 - [Fetchlify Image Converter](https://fetchlify.com/tools/image-converter) — convert between PNG, JPG, WebP, BMP, SVG
